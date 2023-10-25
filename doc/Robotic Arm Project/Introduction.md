@@ -51,9 +51,37 @@ Image recognition of camera viewpoints
 
 The robotic arm has three working modes for grasping targets in different areas.
 
+<div align="center">
+    <img src="area" width="300px" display="inline"> 
+    <div>
+        <p>working mode for different area</p>
+    </div>
+</div>
 
-Success rate in different areas
+<div align="center">
+    <img src="area1" width="300px" display="inline"> 
+    <div>
+        <p>working area 1</p>
+    </div>
+</div>
 
-模型分隔分析需要进行一次全局的深度优先搜索。在未优化之前，采用的是递归的方式实现，但是因为需要搜索上百万个节点，因此出现了 StackOverflow。使用迭代改进之后，就不需要将一些数据压入递归栈中，基本不消耗内存。
+<div align="center">
+    <img src="area2" width="300px" display="inline"> 
+    <div>
+        <p>working area 2</p>
+    </div>
+</div>
 
+<div align="center">
+    <img src="area3" width="300px" display="inline"> 
+    <div>
+        <p>working area 3</p>
+    </div>
+</div>
 
+<div align="center">
+    <img src="Error Rate" width="300px" display="inline"> 
+    <div>
+        <p>Success rate in different areas</p>
+    </div>
+</div>
