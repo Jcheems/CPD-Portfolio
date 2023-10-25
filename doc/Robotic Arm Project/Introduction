@@ -4,15 +4,10 @@ The robotic arm grasping the object block mainly realizes two main functions, th
 
 ## Image Recognition
 
-<div align="center">
-    <img src="template.gif" width="300px" display="inline"> 
-    <img src="4.png"  width="300px" display="inline">
-</div>
-
-
+The position of the target is determined by comparing the template and the actual captured image.
 
 <div align="center">
-    <img src="flyweight-tree-model.png">
+    <img src="template.jpg" width="300px" display="inline"> 
 </div>
 
 
