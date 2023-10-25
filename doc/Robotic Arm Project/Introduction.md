@@ -10,6 +10,12 @@ The position of the target is determined by comparing the template and the actua
     <img src="template.jpg" width="100px" display="inline"> 
 </div>
 
+Target blocks at different angles
+
+<div align="center">
+    <img src="0.jpg" width="300px" display="inline"> 
+    <txt 0>
+</div>
 
 
 ## 位运算
