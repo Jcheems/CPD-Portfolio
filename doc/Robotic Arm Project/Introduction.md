@@ -19,6 +19,26 @@ Target blocks at different angles
     </div>
 </div>
 
+<div align="center">
+    <img src="30.jpg" width="300px" display="inline"> 
+    <div>
+        <p>30°</p>
+    </div>
+</div>
+
+<div align="center">
+    <img src="45.jpg" width="300px" display="inline"> 
+    <div>
+        <p>45°</p>
+    </div>
+</div>
+
+<div align="center">
+    <img src="60.jpg" width="300px" display="inline"> 
+    <div>
+        <p>60°</p>
+    </div>
+</div>
 
 ## 位运算
 
