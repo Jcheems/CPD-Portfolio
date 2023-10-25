@@ -2,6 +2,10 @@
 
 The robotic arm grasping the object block mainly realizes two main functions, the image recognition function of the camera and the planning path function.
 
+<div align="center">
+    <img src="example.gif" width="300px" display="inline"> 
+</div>
+
 ## Image Recognition
 
 The position of the target is determined by comparing the template and the actual captured image.
