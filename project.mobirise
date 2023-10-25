@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "郑永川 简历",
+    "name": "Wenjie Zhao Personal Projects",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -42,7 +42,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "个人简历",
+        "title": "Personal Projects",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
