@@ -7,7 +7,7 @@ The robotic arm grasping the object block mainly realizes two main functions, th
 The position of the target is determined by comparing the template and the actual captured image.
 
 <div align="center">
-    <img src="template.jpg" width="10px" display="inline"> 
+    <img src="template.jpg" width="100px" display="inline"> 
 </div>
 
 
