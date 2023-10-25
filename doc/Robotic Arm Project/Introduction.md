@@ -14,7 +14,9 @@ Target blocks at different angles
 
 <div align="center">
     <img src="0.jpg" width="300px" display="inline"> 
-    <txt 0>
+    <div>
+        <p>0°</p>
+    </div>
 </div>
 
 
