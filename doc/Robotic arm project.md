@@ -1,5 +1,7 @@
 # Project Design
 
+The robotic arm grasping the object block mainly realizes two main functions, the image recognition function of the camera and the planning path function.
+
 ## Image Recognition
 
 <div align="center">
