@@ -93,3 +93,7 @@ The robotic arm has three working modes for grasping targets in different areas.
         <p>Success rate in different areas</p>
     </div>
 </div>
+
+## Coursework Report
+
+More details please take a look at：<a href="Jcheems.github.io/doc/Robotic Arm Project/Project_Report.pdf" target="_blank">PDF.</a>
