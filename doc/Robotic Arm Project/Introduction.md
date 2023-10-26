@@ -46,41 +46,49 @@ Target blocks at different angles
 
 Image recognition of camera viewpoints
 
+<div align="center">
+    <img src="cognition.png" width="300px" display="inline"> 
+    <div>
+        <p></p>
+    </div>
+</div>
+
+The red square box indicates the position of the target block after comparing the viewing angle with the template, which is the position that will be grasped.
 
 ## Path Planning
 
 The robotic arm has three working modes for grasping targets in different areas.
 
 <div align="center">
-    <img src="area" width="300px" display="inline"> 
+    <img src="area.png" width="300px" display="inline"> 
     <div>
         <p>working mode for different area</p>
     </div>
 </div>
 
 <div align="center">
-    <img src="area1" width="300px" display="inline"> 
+    <img src="area1.jpg" width="300px" display="inline"> 
     <div>
         <p>working area 1</p>
     </div>
 </div>
 
 <div align="center">
-    <img src="area2" width="300px" display="inline"> 
+    <img src="area2.jpg" width="300px" display="inline"> 
     <div>
         <p>working area 2</p>
     </div>
 </div>
 
 <div align="center">
-    <img src="area3" width="300px" display="inline"> 
+    <img src="area3.jpg" width="300px" display="inline"> 
     <div>
         <p>working area 3</p>
     </div>
 </div>
 
 <div align="center">
-    <img src="Error Rate" width="300px" display="inline"> 
+    <img src="Error Rate.png" width="300px" display="inline"> 
     <div>
         <p>Success rate in different areas</p>
     </div>
