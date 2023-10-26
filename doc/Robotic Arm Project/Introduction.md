@@ -88,7 +88,7 @@ The robotic arm has three working modes for grasping targets in different areas.
 </div>
 
 <div align="center">
-    <img src="Error Rate.png" width="600px" display="inline"> 
+    <img src="Error Rate.png" width="1000px" display="inline"> 
     <div>
         <p>Success rate in different areas</p>
     </div>
