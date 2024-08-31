@@ -96,4 +96,4 @@ The robotic arm has three working modes for grasping targets in different areas.
 
 ## Coursework Report
 
-More details please take a look at：<a href="https://github.com/Jcheems/Jcheems.github.io/blob/main/doc/Robotic%20Arm%20Project/Project_Report.pdf" target="_blank">Coursework Project.</a>
+More details please take a look at：[Coursework Project](https://github.com/Jcheems/CPD-Portfolio/blob/main/doc/Robotic%20Arm%20Project/Project_Report.pdf)
